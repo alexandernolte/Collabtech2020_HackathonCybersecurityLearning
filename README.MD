@@ -1,1 +1,1 @@
-# Test
+Affia, A. A. O., Matulevičius, R., & Nolte, A.  (2020). Developing and Evaluating a Hackathon Approach to Foster Cyber Security Learning. In <i>26th International Conference on Collaboration Technologies and Social Computing (CollabTech 2020)</i>. Springer, Cham.
